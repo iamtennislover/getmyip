@@ -1,0 +1,8 @@
+.eggs/
+.project
+.pydevproject
+.settings/
+GetMyIP.egg-info/
+build/
+dist/
+*.pyc
